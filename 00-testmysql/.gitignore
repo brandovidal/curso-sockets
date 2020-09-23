@@ -1,0 +1,6 @@
+dist/
+public/
+docs/
+
+# MODULES
+node_modules/
